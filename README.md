@@ -17,17 +17,6 @@
 
 ---
 
-### 🛠️ Skills & Tools
-
-| 💻 Languages | 🧰 Tools & Tech | 💡 Interests        |
-|--------------|----------------|---------------------|
-| C, C++, Java | HTML, CSS      | UI/UX 🎨           |
-| SQL, DBMS    | Power BI, MySQL| Data Visualization 📊 |
-| ALP, DSA     | Git, GitHub    | Blogging 📝        |
-| Assembly     | Canva, VS Code | Creative Writing ✍️ |
-
----
-
 ### 🌟 Achievements
 
 - 🥉 **Bronze Medal** – State Level **Judo Championship**  
