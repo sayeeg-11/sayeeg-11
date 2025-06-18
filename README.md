@@ -9,8 +9,7 @@
 
 - 🎓 Pursuing **B.Tech in Information Technology** at **K.K. Wagh Institute, Nashik**  
 - 💡 Passionate about **Frontend Development**, **Website Design**, and **Data Analytics**  
-- 🌐 Creator of **Ruru Inspires** — a creative blog platform for writers and dreamers  
-- 🛠️ Currently building **Dashboards** for user-blog management  
+- 🌐 Creator of **Ruru Inspires** — a creative blog platform for writers and dreamers   
 - 📚 Learner via **NPTEL**, **Coursera**, **Simplilearn**, and **Spoken Tutorial**  
 - 🤸‍♀️ Athlete at heart — **Basketball Captain**, **State Judo Medalist**  
 - 🧩 Completed internship projects in **Power BI** and worked with **ABB India Ltd.** on audits  
