@@ -1,6 +1,6 @@
 <h1 align="center">✨ Hi there, I'm Sayee Gosavi 🌸</h1>
 <p align="center">
-  💻 Frontend Enthusiast | 🎨 Blogger | 🎓 2nd Year IT Student | 🏀 Athlete | 💡 Lifelong Learner  
+  💻 Frontend Enthusiast | 🎓 3rd Year IT Student | 🏀 Athlete | 💡 Lifelong Learner  
 </p>
 
 ---
@@ -8,8 +8,7 @@
 ### 🧠 About Me
 
 - 🎓 Pursuing **B.Tech in Information Technology** at **K.K. Wagh Institute, Nashik**  
-- 💡 Passionate about **Frontend Development**, **Website Design**, and **Data Analytics**  
-- 🌐 Creator of **Ruru Inspires** — a creative blog platform for writers and dreamers   
+- 💡 Passionate about **Frontend Development**, **Web Development **, **Fullstack Development **and **Data Analytics**     
 - 📚 Learner via **NPTEL**, **Coursera**, **Simplilearn**, and **Spoken Tutorial**  
 - 🤸‍♀️ Athlete at heart — **Basketball Captain**, **State Judo Medalist**  
 - 🧩 Completed internship projects in **Power BI** and worked with **ABB India Ltd.** on audits  
@@ -26,7 +25,7 @@
 ---
 
 ### 🚀 Projects
-
+- 🧮 **Calcius** — A Simple and Scientific Calculator  
 - ✨ **Ruru Inspires** — Aesthetic blog platform for poems, fiction & life thoughts  
 - 📊 **Power BI Dashboard Projects** — Internship-based visual analytics  
 - 🧰 **User & Admin Dashboards** — Blog management system with login/session support  
