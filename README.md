@@ -49,6 +49,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=sayeeg-11&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sayeeg-11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## Holopin Badges
+[![An image of @sayeeg11's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sayeeg11)](https://holopin.io/@sayeeg11)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sayeeg-11&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
