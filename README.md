@@ -1,66 +1,69 @@
-<h1 align="center">✨ Hi there, I'm Sayee Gosavi 🌸</h1>
 <p align="center">
-  💻 Frontend Enthusiast | 🎓 3rd Year IT Student | 🏀 Athlete | 💡 Lifelong Learner  
+  <a href="https://github.com/sayeeg-11">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=c8b8e5&fontSize=54&height=90&width=858&text=Hello!%20I'm%20Sayee%20Gosavi!" alt="Hello! I&#39;m Sayee Gosavi!" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=745&height=44&lines=Welcome%20to%20my%20Engineering%20Lab%20!!;Building%20today%20what%20I%20couldn't%20build%20yesterday." alt="Typing headlines" />
+</p>
+
+###  About Me
+
+Final-Year IT Undergraduate | Building software, exploring AI, contributing to open source, and learning one project at a time.
+
+🔭 &nbsp;I'm currently working on **Whatever my curiosity has convinced me to build next. Currently: AI, open source, and my engineering portfolio.**  
+🌱 &nbsp;I'm currently learning **Not chasing every technology just exploring the ones that make me a better engineer. Right now that's RAG, Agentic AI, Data Engineering, and System Design.**  
+💬 &nbsp;Ask me about **Projects, open source, hackathons, basketball, or anything that starts with "What if..."**  
+😄 &nbsp;Pronouns: **she/her**  
+⚡ &nbsp;Fun fact: **I rarely start a project because I know everything ,I start because I'm curious enough to figure it out.**
+
+### Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
+</p>
+
+###  Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sayee-gosavi11/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sayeeygosavi@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=sayeeg-11&show_icons=true&theme=tokyonight&title_color=c8b8e5&icon_color=c8b8e5&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=sayeeg-11&layout=compact&theme=tokyonight&title_color=c8b8e5&icon_color=c8b8e5&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sayeeg-11&bg_color=00000000&color=c8b8e5&line=c8b8e5&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ---
-
-### 🧠 About Me
-
-- 🎓 Pursuing **B.Tech in Information Technology** at **K.K. Wagh Institute, Nashik**  
-- 💡 Passionate about **Frontend Development**, **Web Development **, **Fullstack Development **and **Data Analytics**     
-- 📚 Learner via **NPTEL**, **Coursera**, **Simplilearn**, and **Spoken Tutorial**  
-- 🤸‍♀️ Athlete at heart — **Basketball Captain**, **State Judo Medalist**  
-- 🧩 Completed internship projects in **Power BI** and worked with **ABB India Ltd.** on audits  
-
----
-
-### 🌟 Achievements
-
-- 🥉 **Bronze Medal** – State Level **Judo Championship**  
-- 🏆 Represented in **State Basketball Tournament** (Team Captain)  
-- 🧪 Winner in **Science Exhibitions** & **SOF Olympiads**  
-- 🚴‍♀️ Active member of **Nashik Cyclists** — trekking, cycling & outdoor sports enthusiast  
-
----
-
-### 🚀 Projects
-- 🧮 **Calcius** — A Simple and Scientific Calculator  
-- ✨ **Ruru Inspires** — Aesthetic blog platform for poems, fiction & life thoughts  
-- 📊 **Power BI Dashboard Projects** — Internship-based visual analytics  
-- 🧰 **User & Admin Dashboards** — Blog management system with login/session support  
-- 🎯 Ongoing: Creating rich HTML-based blog templates and animations  
-
----
-
-### 📬 Let's Connect
-
-[![Email](https://img.shields.io/badge/Email-sayeeygosavi@gmail.com-blue?style=flat-square&logo=gmail)](mailto:sayeeygosavi@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SayeeGosavi-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/sayee-gosavi11)
-[![GitHub](https://img.shields.io/badge/GitHub-sayeeg--11-000?style=flat-square&logo=github)](https://github.com/sayeeg-11)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=flat-square&logo=Pinterest&logoColor=white)](https://pinterest.com/sayeeygosavi)
-
----
-
-# 💻 Tech Stack:
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=plastic&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=plastic)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sayeeg-11&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sayeeg-11&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sayeeg-11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## Holopin Badges
-[![An image of @sayeeg11's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sayeeg11)](https://holopin.io/@sayeeg11)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sayeeg-11&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sayeeg-11&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=sayeeg-11&icon=7&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-_✨ Designed and built with passion — by Sayee 🌸_
+<p align="center"><i>⭐️ From <a href="https://github.com/sayeeg-11">sayeeg-11</a></i></p>
